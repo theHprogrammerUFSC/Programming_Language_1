@@ -1,0 +1,7 @@
+      Avaliacao de Streamings assistidos na Netflix       
+
+ Nome:               Como treinar o seu Drag∆o
+ Tipo:               Filme
+ Categoria:          Aventura/Desenho
+ Nota de avaliacao:  10.00
+
