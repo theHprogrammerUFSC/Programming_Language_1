@@ -21,14 +21,11 @@ _If you are a student at UFSC and depending on your professor, this subject is f
 
 ---
 
--   [Unity_01](#)
--   [Unity_02](#)
--   [Unity_03](#)
+-   [Unity_01](https://github.com/theHprogrammerUFSC/Programming_Language_1/tree/main/Exercices/Unity_01)
+-   [Unity_02](https://github.com/theHprogrammerUFSC/Programming_Language_1/tree/main/Exercices/Unity_02)
+-   [Unity_03](https://github.com/theHprogrammerUFSC/Programming_Language_1/tree/main/Exercices/Unity_03)
 
 ---
-
--   [P1](https://github.com/theHprogrammer/Programming_Language_1/tree/main/Exam/P1)
--   [P2](https://github.com/theHprogrammer/Programming_Language_1/tree/main/Exam/P2)
 
 <br>
 
@@ -41,7 +38,7 @@ _If you are a student at UFSC and depending on your professor, this subject is f
 5. Type git clone (clone git) and paste the URL you copied earlier.
 
 ```c
-$ git clone https://github.com/theHprogrammer/Programming_Language_1
+$ git clone https://github.com/theHprogrammerUFSC/Programming_Language_1.git
 ```
 
 6. Press Enter to create your local clone.
@@ -53,8 +50,8 @@ $ git clone https://github.com/theHprogrammer/Programming_Language_1
 <table align="center">
     <tr>
         <td align="center">
-            <a href="https://github.com/helderhsilva">
-                <img src="https://ik.imagekit.io/helderhsilva/myAvatar_1RkEQbhir.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643634706178" width="150px;" alt="Helder's Image" />
+            <a href="https://github.com/theHprogrammer">
+                <img src="https://avatars.githubusercontent.com/u/79870881?v=4" width="150px;" alt="Helder's Image" />
                 <br />
                 <sub><b>Helder Henrique</b></sub>
             </a>
@@ -62,5 +59,5 @@ $ git clone https://github.com/theHprogrammer/Programming_Language_1
     </tr>
 </table>
 <h4 align="center">
-   By: <a href="https://www.linkedin.com/in/helderhsilva/" target="_blank"> Helder Henrique </a>
+   By: <a href="https://www.linkedin.com/in/thehprogrammer/" target="_blank"> Helder Henrique </a>
 </h4>
